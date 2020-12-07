@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Cart from "./components/Cart";
+import Cart from "./components/Cart"
 import Filter from "./components/Filter";
 import Products from "./components/Products";
 import data from "./data.json";
